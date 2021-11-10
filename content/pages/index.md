@@ -17,7 +17,7 @@ sections:
     grid_items:
       - title: white paper
         content: >-
-          surge de la necesidad  de crear un nuevo proyecto totalmente transparente siendo 
+          surge de la necesidad  de crear un nuevo proyecto totalmente transparente siendo dada una copia en cualquier parte del planeta
         actions:
           - label: Get Started
             url: /docs
