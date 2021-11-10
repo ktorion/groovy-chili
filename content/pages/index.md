@@ -17,7 +17,7 @@ sections:
     grid_items:
       - title: white paper
         content: >-
-          surge de la necesidad 
+          surge de la necesidad  de crear un nuevo proyecto
         actions:
           - label: Get Started
             url: /docs
