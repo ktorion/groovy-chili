@@ -42,6 +42,7 @@ sections:
     image_position: left
     title: Un protocolo simple
     content: >-
+    facil de minar 
       
     actions:
       - label: View Demo
