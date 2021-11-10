@@ -17,7 +17,7 @@ sections:
     grid_items:
       - title: white paper
         content: >-
-          
+          surge de la necesidad 
         actions:
           - label: Get Started
             url: /docs
