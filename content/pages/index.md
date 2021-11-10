@@ -40,7 +40,7 @@ sections:
     type: section_content
     image: images/jamstack.svg
     image_position: left
-    title: Un protocolo sencillo y poca dificultad de minado
+    title: Un protocolo simple
     content: >-
       
     actions:
