@@ -31,7 +31,7 @@ sections:
             style: link
       - title: objetivos
         content: >-
-          hacer parte de un entorno flexible de pagos digitales en criptodivisas, y desarrolos
+          hacer parte de un entorno flexible de pagos digitales en criptodivisas, y desarrollos 
         actions:
           - label: Learn More
             url: /style-guide
