@@ -31,7 +31,7 @@ export default class SectionContent extends React.Component {
                         <div className="grid-item block-body">
                             {title && (
                                 <div className="block-header">
-                                    protocolo de
+                                    <h2 className="block-title">{title}</h2>
                                 </div>
                             )}
                             {content && <div className="block-content">{markdownify(content)}</div>}
