@@ -31,7 +31,7 @@ sections:
             style: link
       - title: objetivos
         content: >-
-          hacer parte de un entorno flexible de pagos digitales en criptodivisas y desarrollo de ideas y causas de uso de Bblockchain 
+          hacer parte de un entorno flexible de pagos digitales en criptodivisas y desarrollo de ideas y causas de uso de Blockchain 
         actions:
           - label: Learn More
             url: /style-guide
