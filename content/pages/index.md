@@ -41,7 +41,7 @@ sections:
     image: images/jamstack.svg
     image_position: left
     title: Un protocolo simple
-    content: >
+    content: >-
       
     actions:
       - label: View Demo
