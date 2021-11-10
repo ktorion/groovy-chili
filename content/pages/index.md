@@ -15,7 +15,7 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title: white paper
+      - title: White paper
         content: >-
           surge de la necesidad  de crear un nuevo proyecto totalmente transparente, descentralizado y seguro que no busque el fin individual, sino procure el bien colectivo
         actions:
