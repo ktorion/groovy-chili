@@ -42,7 +42,7 @@ sections:
     image_position: left
     title: Un protocolo sencillo y poca dificultad de minado
     content: >-
-      
+      Un protocolo sencillo y poca dificultad de minado
 
     actions:
       - label: View Demo
