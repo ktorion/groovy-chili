@@ -24,8 +24,7 @@ sections:
             style: link
       - title: rapidez
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          nuestra blockchain busca ser unica pero con capacidad para conectarse a otras redes
         actions:
           - label: View Posts
             url: /blog
