@@ -6,8 +6,7 @@ sections:
     title: VeVu
     image: images/5.jpg
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      una criptomoneda distinta
     actions:
       - label: Get Started
         url: /docs
