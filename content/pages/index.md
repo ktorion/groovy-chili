@@ -42,9 +42,7 @@ sections:
     image_position: left
     title: Un protocolo sencillo y poca dificultad de minado
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      
     actions:
       - label: View Demo
         url: /docs/getting-started
