@@ -22,7 +22,7 @@ sections:
           - label: Get Started
             url: /docs
             style: link
-      - title: rapidez
+      - title: Rapidez
         content: >-
           nuestra blockchain busca ser unica pero con capacidad para conectarse a otras redes
         actions:
