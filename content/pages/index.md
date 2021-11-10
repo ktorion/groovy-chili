@@ -6,7 +6,7 @@ sections:
     title: VeVu
     image: images/5.jpg
     content: >-
-      una criptomoneda distinta
+      una criptomoneda distinta y transparente
     actions:
       - label: Get Started
         url: /docs
