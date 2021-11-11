@@ -108,7 +108,7 @@ sections:
   - section_id: cta
     type: section_cta
     title: 'sin limites de cultura, raza, color, religion'
-    subtitle: This is an optional description for the call to action block.
+    subtitle: una red
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
