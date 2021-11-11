@@ -79,7 +79,7 @@ sections:
     subtitle: An optional subtitle of the section
     col_number: two
     grid_items:
-      - title: Overview
+      - title: seguridad y persistencia
         content: >+
           nuestro nivel de seguridad  es el de cualquier blockchain  y sistema
           informatico existente, sujeto a errores pero al ser un protocolo
