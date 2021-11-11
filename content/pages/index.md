@@ -5,8 +5,7 @@ sections:
     type: section_hero
     title: VeVu
     image: images/5.jpg
-    content: >-
-      una criptomoneda distinta y transparente
+    content: una criptomoneda distinta y transparente
     actions:
       - label: Get Started
         url: /docs
@@ -17,21 +16,25 @@ sections:
     grid_items:
       - title: White paper
         content: >-
-          surge de la necesidad  de crear un nuevo proyecto totalmente transparente, descentralizado y seguro que no busque el fin individual, sino procure el bien colectivo
+          surge de la necesidad  de crear un nuevo proyecto totalmente
+          transparente, descentralizado y seguro que no busque el fin
+          individual, sino procure el bien colectivo
         actions:
           - label: Get Started
             url: /docs
             style: link
       - title: Rapidez
         content: >-
-          nuestra blockchain busca ser unica pero con capacidad para conectarse a otras redes
+          nuestra blockchain busca ser unica pero con capacidad para conectarse
+          a otras redes
         actions:
           - label: View Posts
             url: /blog
             style: link
       - title: objetivos
-        content: >-
-          hacer parte de un entorno flexible de pagos digitales en criptodivisas y desarrollo de ideas y causas de uso de Blockchain 
+        content: >
+          hacer parte de un entorno flexible de pagos digitales en
+          criptodivisas, desarrollo de ideas y casos de uso de Blockchain
         actions:
           - label: Learn More
             url: /style-guide
@@ -40,10 +43,8 @@ sections:
     type: section_content
     image: images/jamstack.svg
     image_position: left
-    title: 
-    content: >-
-      Un protocolo sencillo y poca dificultad de minado
-
+    title: null
+    content: Un protocolo sencillo y poca dificultad de minado
     actions:
       - label: View Demo
         url: /docs/getting-started
