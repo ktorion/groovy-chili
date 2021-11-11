@@ -55,7 +55,7 @@ sections:
   - section_id: text-no-img
     type: section_content
     title: algoritmo de minado
-    content: >
+    content: >+
       el algoritmo de minado tiene varios fines importantes el primero es
       autoregular la inflacion
 
@@ -77,6 +77,41 @@ sections:
       tambien adoptaremos politicas de coin-friendly, intercambios atómicos a
       precio de bitcoin, promocionando el nacimiento de un nuevo activo, una red
       preparada para los nuevos retos.
+
+
+
+
+
+
+      nuestro algoritmo implica sencillez y simplicidad manteniendo simplicidad,
+      pero tambien establecera pruebas cuanticas de trabajo, tu forma de
+      encriptacion podria ser simplemente el modelo de prediccion de ai de  los
+      datos de los sensores de tu movil. tus datos trabajarian para ti, y no
+      para las empresas que los roba y ni te paga por ello. 
+
+
+      asegurarnos de un modelo asi es 99,90 confiable.no solo tendrias
+      beneficios porque sufa o baje  una moneda, si no por tu nivel de
+      integracion a la red.
+
+
+      proponemos un proyecto de estas caracteristicas para solucionar los
+      problemas crecientes de nuestro planeta
+
+
+
+
+      un problema global necesita soluciones globales, y la primera solucion al
+      cambio viene de un enfoque economico diferente.
+
+
+      un enfoque en donde la economia debe integrarse a la programación y
+      solucion de problemas a través de las ciencias de la informacion.
+
+
+
+
+
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
