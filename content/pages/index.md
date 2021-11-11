@@ -93,10 +93,14 @@ sections:
             url: /overview
             style: link
       - title: Showcase
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: >+
+          coin-friendly, ecofriendly, lanzaremos arquitecturas capaces de entrar
+          a la red por un dinero razonable, no fomentaremos el gasto electrico
+          excesivo, buscamos  intercambios atómicos y contribuir en este nuevo
+          entorno, esta nueva manera de auto-regular la economia.
+
+
+
         actions:
           - label: Learn More
             url: /showcase
