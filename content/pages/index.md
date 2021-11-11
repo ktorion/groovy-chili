@@ -55,10 +55,20 @@ sections:
   - section_id: text-no-img
     type: section_content
     title: algoritmo de minado
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      el algoritmo de minado tiene varios fines importantes el primero es
+      autoregular la inflacion
+
+
+      es decir que pocos agentes en la red se beneficiaran de  facilidad de
+      minado, y muchos agentes de minado se beneficiaran 
+
+
+      de un algoritmo que permita fijar  un precio  de baja volatilidad
+      intentando estar por encima,
+
+
+      nuestro nivel de seguridad  está
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
