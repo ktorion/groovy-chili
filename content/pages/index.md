@@ -55,7 +55,7 @@ sections:
   - section_id: text-no-img
     type: section_content
     title: algoritmo de minado
-    content: >+
+    content: >
       el algoritmo de minado tiene varios fines importantes el primero es
       autoregular la inflacion
 
@@ -74,12 +74,9 @@ sections:
       incluso de arquitecturas IOT
 
 
-
-
       tambien adoptaremos politicas de coin-friendly, intercambios atómicos a
       precio de bitcoin, promocionando el nacimiento de un nuevo activo, una red
-      prerparada para los nuevos retos.
-
+      preparada para los nuevos retos.
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
