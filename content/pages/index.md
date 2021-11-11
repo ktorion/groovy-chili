@@ -55,20 +55,31 @@ sections:
   - section_id: text-no-img
     type: section_content
     title: algoritmo de minado
-    content: >
+    content: >+
       el algoritmo de minado tiene varios fines importantes el primero es
       autoregular la inflacion
 
 
       es decir que pocos agentes en la red se beneficiaran de  facilidad de
-      minado, y muchos agentes de minado se beneficiaran 
+      minado, y muchos agentes de minado se beneficiaran
 
 
-      de un algoritmo que permita fijar  un precio  de baja volatilidad
-      intentando estar por encima,
+      de un algoritmo que permita fijar  un precio  de baja volatilidad que
+      siempre este por encima de tu costo electrico mas el incentivo por minar
 
 
-      nuestro nivel de seguridad  está
+      nuestro nivel de seguridad  es el de cualquier blockchain  y sistema
+      informatico existente, sujeto a errores pero al ser un protocolo
+      descentralizado nos aseguramos que nuestra cadena este copiada en nodos
+      incluso de arquitecturas IOT
+
+
+
+
+      tambien adoptaremos politicas de coin-friendly, intercambios atómicos a
+      precio de bitcoin, promocionando el nacimiento de un nuevo activo, una red
+      prerparada para los nuevos retos.
+
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
