@@ -108,7 +108,7 @@ sections:
   - section_id: cta
     type: section_cta
     title: 'sin limites de cultura, raza, color, religion'
-    subtitle: una red
+    subtitle: una red agnostica
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
