@@ -80,10 +80,14 @@ sections:
     col_number: two
     grid_items:
       - title: Overview
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
+        content: >+
+          nuestro nivel de seguridad  es el de cualquier blockchain  y sistema
+          informatico existente, sujeto a errores pero al ser un protocolo
+          descentralizado nos aseguramos que nuestra cadena este copiada en
+          nodos incluso de arquitecturas IOT
+
+
+
         actions:
           - label: Learn More
             url: /overview
