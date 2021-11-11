@@ -92,7 +92,7 @@ sections:
           - label: Learn More
             url: /overview
             style: link
-      - title: Showcase
+      - title: algunos objetivos
         content: >+
           coin-friendly, ecofriendly, lanzaremos arquitecturas capaces de entrar
           a la red por un dinero razonable, no fomentaremos el gasto electrico
