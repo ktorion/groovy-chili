@@ -111,7 +111,7 @@ sections:
     subtitle: >-
       una red agnostica en donde cualquiera que sean tus ideas estas invitado a
       participar con nosotros desde cualquier lugar, pues la info esta en todas
-      partes.
+      partes, unete!
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
